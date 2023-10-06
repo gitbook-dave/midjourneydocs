@@ -5,3 +5,6 @@ For the most recent documentation, visit [**https://docs.midjourney.com**](https
 
 
 Why did it move? Did they stop using GitBook?
+
+
+Yes they did sadly :(
