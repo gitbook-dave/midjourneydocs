@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Customize your space](README.md)
+* [Customize your space test](README.md)
 
 ## Group 1
 
