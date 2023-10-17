@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Customize your space hello aga](README.md)
+* [Customize your space](README.md)
 
 ## Group 1
 
