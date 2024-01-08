@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Customize your space hello aga](README.md)
+* [Welcome](README.md)
 
-## Group 1
+## Engineering
 
-* [Testing adding groups](group-1/testing-adding-groups/README.md)
-  * [Sub page](group-1/testing-adding-groups/sub-page.md)
+* [Workshops](engineering/testing-adding-groups/README.md)
+  * [April 2024](engineering/testing-adding-groups/sub-page.md)
 
-## Group 2
+## Post mortems
 
-* [Test group 2](group-2/test-group-2.md)
+* [January 2024](post-mortems/test-group-2.md)
 
 ***
 
