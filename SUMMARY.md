@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Customize your space](README.md)
+* [Customize your space hello aga](README.md)
 
 ## Group 1
 
@@ -10,3 +10,7 @@
 ## Group 2
 
 * [Test group 2](group-2/test-group-2.md)
+
+***
+
+* [Troubleshooting Local Development Environment Setup](troubleshooting-local-development-environment-setup.md)
