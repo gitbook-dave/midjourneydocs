@@ -10,7 +10,3 @@
 ## Post mortems
 
 * [January 2024](post-mortems/test-group-2.md)
-
-***
-
-* [Troubleshooting Local Development Environment Setup](troubleshooting-local-development-environment-setup.md)
